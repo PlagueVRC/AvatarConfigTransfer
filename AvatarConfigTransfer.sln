@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvatarConfigTransfer", "AvatarConfigTransfer.csproj", "{352AB7E9-4A1C-491B-A99B-3E0B2C581DA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{352AB7E9-4A1C-491B-A99B-3E0B2C581DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{352AB7E9-4A1C-491B-A99B-3E0B2C581DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{352AB7E9-4A1C-491B-A99B-3E0B2C581DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{352AB7E9-4A1C-491B-A99B-3E0B2C581DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90012F25-81FA-4848-A361-5AD58F551A27}
+	EndGlobalSection
+EndGlobal
