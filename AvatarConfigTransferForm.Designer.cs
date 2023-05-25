@@ -1,4 +1,4 @@
-﻿namespace AvatarConfigTransfer
+namespace AvatarConfigTransfer
 {
     partial class AvatarConfigTransferForm
     {
@@ -124,7 +124,7 @@
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(363, 23);
             this.button2.TabIndex = 7;
-            this.button2.Text = "Transfer!";
+            this.button2.Text = "Save Config To LocalAvatarData!";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
